@@ -1,0 +1,2 @@
+This is a placeholder file for the Middleware folder.
+You can add custom middleware functions in this folder to handle specific tasks in your Express.js application.

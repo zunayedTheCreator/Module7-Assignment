@@ -1,0 +1,2 @@
+This is a placeholder file for the Models folder.
+You can define your data models and database schemas in this folder if you are using a database like MongoDB or MySQL.
